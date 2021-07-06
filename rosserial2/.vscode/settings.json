@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "functional": "cpp",
+        "streambuf": "cpp",
+        "thread": "cpp"
+    }
+}
